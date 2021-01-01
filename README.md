@@ -1,5 +1,7 @@
-# Img-Steg
-
+# Imgage-Steganography
+```
+Image based Steganography
+```
 ## Objective
 ```
 Objective is to hide some data in a .png format image and only person having this code can unhide it.
